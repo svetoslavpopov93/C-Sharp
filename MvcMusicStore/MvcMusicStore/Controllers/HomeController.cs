@@ -31,8 +31,21 @@ namespace MvcMusicStore.Controllers
 
         public ActionResult Sample()
         {
-            ViewBag.Message = "Hello World. Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Hi! This is the \"Store.html\" page!";
+            var albums = new List<string>();
+
+            for (int i = 0; i < 10; i++)
+            {
+                albums.Add("asdad" + i);
+            }
+            ViewBag.Albums = albums;
+
             return View("Sample");
+        }
+
+        public ActionResult Edit()
+        {
+            return View();
         }
     }
 }

@@ -33,5 +33,16 @@ namespace MvcMusicStore.Controllers
 
             return message;
         }
+
+        //public ActionResult Sample()
+        //{
+        //    var albums = new List<Album>();
+        //    for (int i = 0; i < 10; i++)
+        //    {
+        //        albums.Add(new Album {Title = "Product " + i});
+        //    }
+        //    ViewBag.Albums = albums;
+        //    return View("Sample");
+        //}
     }
 }
