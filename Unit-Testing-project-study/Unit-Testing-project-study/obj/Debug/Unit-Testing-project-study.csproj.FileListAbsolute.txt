@@ -1,0 +1,6 @@
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\bin\Debug\Unit-Testing-project-study.exe.config
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\bin\Debug\Unit-Testing-project-study.exe
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\bin\Debug\Unit-Testing-project-study.pdb
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\obj\Debug\Unit-Testing-project-study.csprojResolveAssemblyReference.cache
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\obj\Debug\Unit-Testing-project-study.exe
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\Unit-Testing-project-study\obj\Debug\Unit-Testing-project-study.pdb

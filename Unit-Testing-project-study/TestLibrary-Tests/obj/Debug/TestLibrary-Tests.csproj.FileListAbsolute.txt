@@ -1,0 +1,7 @@
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\obj\Debug\TestLibrary-Tests.csprojResolveAssemblyReference.cache
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\bin\Debug\TestLibrary-Tests.dll
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\bin\Debug\TestLibrary-Tests.pdb
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\bin\Debug\TestLibrary.dll
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\bin\Debug\TestLibrary.pdb
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\obj\Debug\TestLibrary-Tests.dll
+C:\Users\Svetoslav\Documents\GitHub\C-Sharp\Unit-Testing-project-study\TestLibrary-Tests\obj\Debug\TestLibrary-Tests.pdb
